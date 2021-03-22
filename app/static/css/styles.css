@@ -1,0 +1,61 @@
+
+
+.logo_cisco {
+  width: 40px;
+}
+
+.first_container{
+  width:100%;
+}
+
+.background-img{
+  background-image:url('../img/network-img.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:center;
+}
+
+.first_container{
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+}
+
+.bouton-blue{
+  background-color:#E8DB51;
+  padding:5px 10px 5px 10px;
+  color:#fff;
+  border:0px;
+}
+
+.first-article .h1, h1, .p, p{
+  color:#ffffff;
+}
+
+.navbar-collapse{
+  display:flex;
+  justify-content: flex-end;
+}
+
+.navbar-expand-lg{
+  padding:10px 10px 10px 10px;
+}
+
+.formulaire-contact{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items:center;
+  justify-content:center;
+  justify-content: center;
+  padding:0% 10% 0% 10%;
+}
+
+.btn-primary{
+  background-color:#E8DB51;
+  border-radius:100px;
+  border-color:#E8DB51;
+  color:#000;
+}
